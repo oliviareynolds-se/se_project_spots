@@ -1,0 +1,7 @@
+.page {
+  background-color: #fcf5e5;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url(./fonts/Poppins-Regular.ttf) format("truetype");
+}
